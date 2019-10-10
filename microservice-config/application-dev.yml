@@ -1,7 +1,0 @@
-zuul:
-  routes:
-    service-provider:
-      path: /service/**
-      serviceId: eureka-service
-hello:
-  world: nihao quanshijie

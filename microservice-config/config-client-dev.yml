@@ -1,3 +1,8 @@
+spring:
+  application:
+    name: config-client
+server:
+  port: 13000    
 eureka:
   client:
     service-url:

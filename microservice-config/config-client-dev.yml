@@ -9,5 +9,5 @@ eureka:
       defaultZone: http://localhost:7000/eureka/
 
 parameter:
-  hello world
+  hello world2222
 
